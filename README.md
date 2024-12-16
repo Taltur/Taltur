@@ -4,14 +4,13 @@
 
 # Socials 🌐
 <p align="left">
-<a href="https://www.linkedin.com/in/elad-krauz/" target="blank">
+<a href="https://www.linkedin.com/in/tal-turjeman/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="https://www.linkedin.com/in/elad-krauz/" height="50" width="50"/>
 </a>
-<a href="https://www.facebook.com/eladkrauz" target="blank">
+<a href="https://www.facebook.com/tal.turgamen
+  
+  rauz" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" alt="https://www.facebook.com/eladkrauz" height="50" width="50"/>
-</a>
-<a href="https://instagram.com/e.l.a.d" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="eladkrauz" height="50" width="50"/>
 </a>
 </p>
 
